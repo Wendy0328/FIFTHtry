@@ -3,7 +3,7 @@
 \alias{OptionPrice}
 \docType{package}
 \title{
-\packageTitle{OptionPrice}
+Calculate option price
 }
 \description{
 \packageDescription{OptionPrice}
